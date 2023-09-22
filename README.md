@@ -3,7 +3,7 @@
 <tbody>
 <td align="center">
 <img width="2000" height="0"><br>
-### [@wxlfie](https://discord.com/users/714978777830129725)
+[@wxlfie](https://discord.com/users/714978777830129725)
 
 [WXL.Industries](https://discord.gg/3MRhPTmWjM)
 <img width="2000" height="0">
