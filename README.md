@@ -1,6 +1,6 @@
 ### [@wxlfie](https://discord.com/users/714978777830129725)
 
-: [WXL.Industries](https://discord.gg/3MRhPTmWjM) :
+| :[WXL.Industries](https://discord.gg/3MRhPTmWjM): |
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hdl67gyqtxnzvkzgsyrgf7s6cy&count=1)
 
