@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=WXL.Industries)](https://git.io/typing-svg)
 
-[@wxlfie](https://discord.com/users/714978777830129725)
+[User](https://discord.com/users/714978777830129725)
 
 [Server](https://discord.gg/3MRhPTmWjM)
 
