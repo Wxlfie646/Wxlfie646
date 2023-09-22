@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there!)](https://git.io/typing-svg)
-
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=WXL.Industries)](https://git.io/typing-svg)
 
 [@wxlfie](https://discord.com/users/714978777830129725)
 
-[WXL.Industries](https://discord.gg/3MRhPTmWjM)
+[Server](https://discord.gg/3MRhPTmWjM)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hdl67gyqtxnzvkzgsyrgf7s6cy&count=1)
 
