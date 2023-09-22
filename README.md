@@ -4,7 +4,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxlfie646&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=wxlfie646-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=wxlfie646&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.instagram.com/wxlfie646/)
 [![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://open.spotify.com/user/31hdl67gyqtxnzvkzgsyrgf7s6cy?si=0933c1f87e794c5b&nd=1)
