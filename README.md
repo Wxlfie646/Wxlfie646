@@ -6,7 +6,7 @@ https://discord.gg/3MRhPTmWjM
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxlfie646&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxlfie646&show_icons=true&theme=transparent))](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxlfie646&show_icons=true&theme=dark-magenta)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=GitHub&logoColor=white)
