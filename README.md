@@ -1,10 +1,6 @@
-### Hello
-
-@wxlfie
+### [@wxlfie](https://discord.com/users/714978777830129725)
 
 https://discord.gg/3MRhPTmWjM
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxlfie646&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxlfie646&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
