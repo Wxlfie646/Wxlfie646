@@ -1,9 +1,18 @@
+<div align="center">
+<table>
+<tbody>
+<td align="center">
+<img width="2000" height="0"><br>
 ### [@wxlfie](https://discord.com/users/714978777830129725)
 
-<DiscServer>
-    <summary>Server</summary>
-    [WXL.Industries](https://discord.gg/3MRhPTmWjM)
-</DiscServer>
+[WXL.Industries](https://discord.gg/3MRhPTmWjM)
+<img width="2000" height="0">
+</td>
+</tbody>
+</table>
+</div>
+
+
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hdl67gyqtxnzvkzgsyrgf7s6cy&count=1)
 
