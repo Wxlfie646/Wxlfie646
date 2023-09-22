@@ -16,5 +16,16 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561199099186667)
 [![NameMC](https://img.shields.io/badge/NameMC-000000?style=for-the-badge&logo=NameMC&logoColor=white)](https://namemc.com/profile/Wxlfie646)
 
+<table>
+<tbody>
+<td align="center">
+<img width="2000" height="0"><br>
+  
+[![Trophys](https://github-profile-trophy.vercel.app/?username=wxlfie646&theme=dracula&no-bg=true&no-frame=true&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hdl67gyqtxnzvkzgsyrgf7s6cy&count=1)<img width="2000" height="0">
+</td>
+</tbody>
+</table>
 </div>
 
