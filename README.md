@@ -4,8 +4,7 @@
 <td align="center">
 <img width="2000" height="0"><br>
   
-[@wxlfie](https://discord.com/users/714978777830129725)
-[WXL.Industries](https://discord.gg/3MRhPTmWjM)
+
 
 <img width="2000" height="0">
 </td>
@@ -13,6 +12,13 @@
 </table>
 </div>
 
+<p align="center">
+  
+[@wxlfie](https://discord.com/users/714978777830129725)
+
+[WXL.Industries](https://discord.gg/3MRhPTmWjM)
+
+</p>
 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hdl67gyqtxnzvkzgsyrgf7s6cy&count=1)
