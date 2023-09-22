@@ -10,7 +10,5 @@ https://discord.gg/3MRhPTmWjM
 ![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Soundcloud](https://img.shields.io/badge/SoundCloud-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-<img src="https://simpleicons.org/icons/cplusplus.svg" width="69"> 
-<img src="https://simpleicons.org/icons/csharp.svg" width="69">
-<img src="https://simpleicons.org/icons/cplusplus.svg" width="69">
+<img src="https://simpleicons.org/icons/cplusplus.svg" width="69"> <img src="https://simpleicons.org/icons/csharp.svg" width="69"> <img src="https://simpleicons.org/icons/cplusplus.svg" width="69">
 
