@@ -2,9 +2,9 @@
 
 [WXL.Industries](https://discord.gg/3MRhPTmWjM)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hdl67gyqtxnzvkzgsyrgf7s6cy&count=1)
-
 [![Trophys](https://github-profile-trophy.vercel.app/?username=wxlfie646&theme=oldie&no-bg=true&no-frame=true&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hdl67gyqtxnzvkzgsyrgf7s6cy&count=1)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxlfie646&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
