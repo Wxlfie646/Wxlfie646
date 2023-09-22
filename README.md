@@ -1,7 +1,7 @@
 ### [@wxlfie](https://discord.com/users/714978777830129725)
 
 <p align="center">
-[<WXL.Industries src="https://img.shields.io/badge/Instagram-000000" style=""/>](https://discord.gg/3MRhPTmWjM)
+[WXL.Industries](https://discord.gg/3MRhPTmWjM)
 </p>
 
 
