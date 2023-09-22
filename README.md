@@ -1,8 +1,9 @@
 ### [@wxlfie](https://discord.com/users/714978777830129725)
 
 <p align="center">
-[WXL.Industries](https://discord.gg/3MRhPTmWjM)
+[<WXL.Industries src="https://img.shields.io/badge/Instagram-000000" style=""/>](https://discord.gg/3MRhPTmWjM)
 </p>
+
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hdl67gyqtxnzvkzgsyrgf7s6cy&count=1)
 
@@ -10,7 +11,7 @@
 
 [![Trophys](https://github-profile-trophy.vercel.app/?username=wxlfie646&theme=dracula&no-bg=true&no-frame=true&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.instagram.com/wxlfie646/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wxlfie646/)
 [![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://open.spotify.com/user/31hdl67gyqtxnzvkzgsyrgf7s6cy?si=0933c1f87e794c5b&nd=1)
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://soundcloud.com/wxlfie646)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://steamcommunity.com/profiles/76561199099186667)
