@@ -1,7 +1,7 @@
 ### Hello
 
 <div>
-![LangCpp]([https://img.shields.io/badge/Instagram-000000](https://simpleicons.org/icons/cplusplus.svg)?style=height="60" width="60")
+![LangCpp](https://simpleicons.org/icons/cplusplus.svg?style=height="60" width="60")
 <div>
 
 ![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=GitHub&logoColor=white)
