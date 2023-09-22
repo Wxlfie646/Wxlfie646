@@ -1,8 +1,9 @@
 ### [@wxlfie](https://discord.com/users/714978777830129725)
 
-Default | Left align | Center align
--- | :- | :-: | -: |
-9999999999 | 9999999999 | [WXL.Industries](https://discord.gg/3MRhPTmWjM)
+<DiscServer>
+    <summary>Server</summary>
+    [WXL.Industries](https://discord.gg/3MRhPTmWjM)
+</DiscServer>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hdl67gyqtxnzvkzgsyrgf7s6cy&count=1)
 
