@@ -1,10 +1,8 @@
 ### [@wxlfie](https://discord.com/users/714978777830129725)
 
-[WXL.Industries](https://discord.gg/3MRhPTmWjM) 
-
 Default | Left align | Center align | Right align
 -- | :- | :-: | -: |
-9999999999 | 9999999999 | 9999999999 | 9999999999
+9999999999 | 9999999999 | [WXL.Industries](https://discord.gg/3MRhPTmWjM) | 9999999999
 999999999 | 999999999 | 999999999 | 999999999
 99999999 | 99999999 | 99999999 | 99999999
 9999999 | 9999999 | 9999999 | 9999999
