@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello-there!)](https://git.io/typing-svg)
+
 <div align="center">
 
 [@wxlfie](https://discord.com/users/714978777830129725)
