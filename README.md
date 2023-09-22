@@ -1,11 +1,8 @@
 ### [@wxlfie](https://discord.com/users/714978777830129725)
 
-Default | Left align | Center align | Right align
+Default | Left align | Center align |
 -- | :- | :-: | -: |
-9999999999 | 9999999999 | [WXL.Industries](https://discord.gg/3MRhPTmWjM) | 9999999999
-999999999 | 999999999 | 999999999 | 999999999
-99999999 | 99999999 | 99999999 | 99999999
-9999999 | 9999999 | 9999999 | 9999999
+9999999999 | 9999999999 | [WXL.Industries](https://discord.gg/3MRhPTmWjM) | 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hdl67gyqtxnzvkzgsyrgf7s6cy&count=1)
 
