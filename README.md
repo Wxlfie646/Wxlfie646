@@ -1,6 +1,6 @@
 ### Hello
 
-<img src="https://simpleicons.org/icons/cplusplus.svg" width="300">
+<img src="https://simpleicons.org/icons/cplusplus.svg" width="60">
 
 ![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=GitHub&logoColor=white)
